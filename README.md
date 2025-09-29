@@ -1,29 +1,19 @@
-# web-dev-starter
+# Wildlife Website
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is a project for CS408 showcasing a wildlife website that focuses on accessibility for users who aren't able to fully interact with the website.
 
-## Getting Started
+Two things that could be added or changed for accessibility could be changing the font choice for the titles, as it could be a bit hard to read, and add extra highlighting/contrast for any buttons or links that are on the page.
+
+## Running this Project
 
 To get started, clone this repository and run the following commands:
 
 ```bash
-npm install
+npm -g install http-server
+http-server
 ```
-This will install the necessary dependencies for the project.
+This will launch the webserver, and open a url for you to interact with the website.
 
-## Development
+## Sources
 
-It is recommended to use the VSCode Live Server extension to run the project
-locally. This will allow you to see changes in real-time as you make them. There
-is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
-
-## Testing
-
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+I developed this while asking questions to my cousin's cousin, who has been a professional web dev for almost 8 years. I did not share the project or code, but asked how to accomplish specific tasks I was trying to do. 
